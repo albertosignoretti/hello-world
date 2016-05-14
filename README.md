@@ -16,5 +16,3 @@ Novo Texto colocado no Github
 
 
 English Version
-
-
