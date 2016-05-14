@@ -9,5 +9,7 @@ ok working with the new version
 <<<<<<< HEAD
 
 
+=======
+Ultima mudança do MASTER
 >>>>>>> master
 
