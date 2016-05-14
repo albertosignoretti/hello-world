@@ -1,4 +1,3 @@
-
 # hello-world
 Hack Aveiro
 
@@ -8,10 +7,5 @@ Teste de alteração
 
 Texte inserido em 14/5/16
 
-Novo texto
-
-Novo Texto 2
-
-Novo Texto colocado no Github
-
+Ultima mudança do MASTER
 
