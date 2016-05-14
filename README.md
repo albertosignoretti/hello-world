@@ -15,4 +15,3 @@ Novo Texto 2
 Novo Texto colocado no Github
 
 
-English Version
